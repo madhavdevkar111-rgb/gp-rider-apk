@@ -13,5 +13,8 @@
       "showSpinner": true,
       "spinnerColor": "#ff6600"
     }
+  },
+  "android": {
+    "icon": "logo.png"
   }
 }
