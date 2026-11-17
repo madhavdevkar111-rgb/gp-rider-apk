@@ -1,0 +1,9 @@
+{
+  "appId": "com.goparcel.rider",
+  "appName": "GP Rider",
+  "webDir": "www",
+  "server": {
+    "url": "https://madhavdevkar111-rgb.github.io/goparcellive/Rider/",
+    "cleartext": true
+  }
+}
