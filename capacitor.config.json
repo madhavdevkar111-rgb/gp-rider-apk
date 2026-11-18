@@ -6,15 +6,7 @@
     "url": "https://madhavdevkar111-rgb.github.io/goparcellive/Rider/",
     "cleartext": true
   },
-  "plugins": {
-    "SplashScreen": {
-      "launchShowDuration": 2000,
-      "backgroundColor": "#0d0f12",
-      "showSpinner": true,
-      "spinnerColor": "#ff6600"
-    }
-  },
   "android": {
-    "icon": "logo.png"
+    "icon": "assets/icon.png"
   }
 }
